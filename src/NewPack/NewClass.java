@@ -6,6 +6,8 @@ public class NewClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("New Class Added");
+		System.out.println("New Class Added");
+		System.out.println("New Class Added");
 
 	}
 
