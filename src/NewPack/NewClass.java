@@ -8,6 +8,8 @@ public class NewClass {
 		System.out.println("New Class Added");
 		System.out.println("New Class Added");
 		System.out.println("New Class Added");
+		System.out.println("New Class Added");
+		System.out.println("New Class Added");
 
 	}
 
